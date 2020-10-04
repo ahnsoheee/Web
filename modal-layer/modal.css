@@ -1,0 +1,72 @@
+.modal {
+    display: none;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%; 
+    overflow: auto; 
+    background-color: rgba(0,0,0,0.4);
+  }
+
+.modal-button {
+  color: black;
+  text-align: center;
+  display: block;
+}
+
+.modal-content {
+  background-color: #fefefe;
+  margin: 10% auto;
+  border: 1px solid #888;
+  width: 90vh; 
+  position: relative;
+  border-radius: 13px;
+}
+
+.modal-title {
+  display: flex;
+  padding: 10px 20px 5px 20px;
+}
+
+.close {
+  font-size: 28px;
+  margin: 5px 0 5px 0;
+}
+
+.close:hover,
+.close:focus {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.text {
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin: 15px 0 12px 0;
+}
+
+.form-content {
+  padding: 10px 20px 5px 20px;
+}
+
+.modal-form input {
+  width: 596px;
+  height: 45px;
+  margin-bottom: 20px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding-left: 10px;
+}
+
+.modal-form .submit {
+  width: 604px;
+  background-color: #FF5A5F;
+  border: none;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 0;
+}

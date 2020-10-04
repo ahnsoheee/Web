@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Modal-layer</title>
+  <link rel="stylesheet" href="/stylesheets/modal.css">
+</head>
+
+<body>
+  <header>
+    <div class="class">
+      <button id="login-button">로그인</button>
+    </div>
+  </header>
+
+  <div class="modal" id="modal-login">
+    <div class="modal-content" id="modal-login-content">
+      <div class="modal-form">
+        <div class="modal-title">
+          <p id="login-close">&times </p>
+          <p class="text">로그인</p>
+        </div>
+        <hr>
+        <div class="form-content">
+          <form id="form_login" name="form_login" action="/login" method="POST">
+            <input id="id_login" type="text" name="id" placeholder="아이디">
+            <input id="pw_login" type="password" name="pw" placeholder="비밀번호">
+            <input class="submit" id="submit" type="submit" name="submit" value="로그인">
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
+<script src="/javascripts/modal.js"></script>
