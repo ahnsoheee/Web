@@ -1,0 +1,1 @@
+directive @auth(requires: USER!) on FIELD_DEFINITION
