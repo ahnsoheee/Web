@@ -1,5 +1,4 @@
-# Web
-### Back-end
+## Back-end
 [Modal Layer](https://github.com/ahnsoheee/Web/tree/main/ModalLayer)
 
 [OAuth-Github](https://github.com/ahnsoheee/Web/tree/main/OAuth-GitHub)
@@ -8,7 +7,9 @@
 
 [Webpack_Babel](https://github.com/ahnsoheee/Web/tree/main/Webpack_Babel)
 
-### Front-end
+
+
+## Front-end
 
 [API(Frontend)](https://github.com/ahnsoheee/Web/blob/main/API/api.js)
 
