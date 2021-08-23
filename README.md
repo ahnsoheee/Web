@@ -1,7 +1,7 @@
 # Web
-[Modal Layer](https://github.com/ahnsoheee/Web/tree/main/modal-layer)
+[Modal Layer](https://github.com/ahnsoheee/Web/tree/main/ModalLayer)
 
-[OAuth Github](https://github.com/ahnsoheee/Web/tree/main/oauth-github)
+[OAuth-Github](https://github.com/ahnsoheee/Web/tree/main/OAuth-GitHub)
 
 [GraphQL - AuthDirective](https://github.com/ahnsoheee/Web/tree/main/GraphQL/AuthDirective)
 
