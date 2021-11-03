@@ -11,6 +11,6 @@
 
 ## Front-end
 
-[API(Frontend)](https://github.com/ahnsoheee/Web/blob/main/API/api.js)
+[fetch API](https://github.com/ahnsoheee/Web/blob/main/API/api.js)
 
 [Modal Layer](https://github.com/ahnsoheee/Web/tree/main/ModalLayer)
